@@ -1,0 +1,14 @@
+build/
+dist/
+nbbuild/
+nbproject/private/
+uploads/
+*.class
+*.zip
+*.rar
+*.7z
+*.exe
+*.msi
+*.sql
+*.mp4
+deployment/
